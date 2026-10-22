@@ -1,7 +1,6 @@
-public class MaxSubarraySumPrefixSum {
+public class MaxSubArraySumPrefixSum {
     // This time we calculate max sub array sum using prefix sum approach this approach is little bit better than brute force approach. This code time complexity is n + n2 that means O(n2). But space complexity is O(n)
     public static void prefixSumSubArr(int[] arr) {
-
         int maxSum = Integer.MIN_VALUE;
         int currentSum = 0;
         int[] suffixSum = new int[arr.length];
