@@ -14,9 +14,6 @@ This directory contains topic-wise organized Data Structures & Algorithms implem
 
 ### 2. `2.patterns/`
 - [HollowRectangle.java](2.patterns/HollowRectangle.java) - Hollow rectangle star pattern.
-
-  ![Hollow Rectangle Pattern](hollow_rectangle_pattern.png)
-
 - [InvertedRotatedHalfPyramid.java](2.patterns/InvertedRotatedHalfPyramid.java) - Inverted & rotated (right-aligned) half pyramid.
 - [InvertedHalfPyramidNumbers.java](2.patterns/InvertedHalfPyramidNumbers.java) - Inverted half pyramid with numbers.
 - [FloydsTriangle.java](2.patterns/FloydsTriangle.java) - Floyd's continuous counting number triangle.
@@ -36,10 +33,4 @@ This directory contains topic-wise organized Data Structures & Algorithms implem
 - [PairsInArray.java](3.arrays/PairsInArray.java) - Generating and printing all unique pairs of elements.
 - [PrintSubArrays.java](3.arrays/PrintSubArrays.java) - Generating all subarrays, calculating their sums, minimum, and maximum sum (Brute-Force $O(n^3)$).
 - [MaxSubArraySumPrefixSum.java](3.arrays/MaxSubArraySumPrefixSum.java) - Maximum subarray sum using prefix sum approach ($O(n^2)$).
-
-  - **Kadane's Algorithm ($O(n)$)** - Maximum Subarray Sum optimization:
-
-    ![Kadane's Algorithm](kadan's.png)
-
-### 4. `questions/`
-- [Functions Questions.pdf](questions/Functions%20Questions.pdf) - Practice questions on Functions & Methods.
+- **Kadane's Algorithm ($O(n)$)** - Maximum Subarray Sum optimization:
